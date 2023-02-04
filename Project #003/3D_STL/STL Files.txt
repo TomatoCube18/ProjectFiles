@@ -1,2 +1,6 @@
+Last Updated on: Feb 4, 2023
+Created by: Percy Chen
+GPL-3.0 license
+
 SG90 Servo Mount (Radar Base) - UltraSonic_base.stl
 UltraSonic Sendor Mount (Radar Antenna) - UltraSonic_holder.stl
