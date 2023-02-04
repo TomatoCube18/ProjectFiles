@@ -1,2 +1,0 @@
-UltraSonic_base.stl
-UltraSonic_holder.stl
