@@ -1,0 +1,3 @@
+EaringDesign1.dxf
+EaringDesign2.dxf
+EaringDesign3.dxf
